@@ -19,12 +19,55 @@
 <br>
 <br>
 
-## 🚀👩‍🚀👨‍🚀 팀원
+## 👩‍🚀 팀원
 
 |   | 김세연  | 이도훈  | 김인혜  | 윤예성  | 전은호  | 
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 역할 | 부조장  | 조장  | 팀원  | 팀원  | 팀원  |
 | 기능 | CSS 메인<br>전자결재 관리|DB구축<br>아키텍쳐<br>크리에이터 관리|CSS<br>채팅(다대다)<br>알림<br>마이페이지<br>(대시보드)|DB구축<br>아키텍쳐<br>인사/근태 관리|CSS<br>프로젝트 관리<br>TODO리스트|
+
+## 🛠 개발 환경 및 배포 URL
+
+<div align=left>
+	<h3>📚 개발 환경 📚</h3>
+	<p>▪ FRONT</p>
+</div>
+<div align="left">
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
+	<br>
+</div>
+<div align=left>
+	<p>▪ BACK</p>
+</div>
+<div align="left">
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
+	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
+</div>
+<div align=left>
+	<p>▪ 프레임워크</p>
+</div>
+<div align="left">
+	<img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=Spring&logoColor=white" />
+	<img src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Fluentd&logoColor=white" />
+	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
+</div>
+<div align=left>
+	<p>▪ 데이터베이스</p>
+</div>
+<div align="left">
+	<img src="https://img.shields.io/badge/mariaDB-003545?style=flat&logo=mariaDB&logoColor=white" />
+</div>
+<div align=left>
+	<p>▪ 버전 관리 툴</p>
+</div>
+<div align="left">
+	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+	<img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white" />
+</div>
+<br>
 
 
 ## 🧱 프로젝트 설계
@@ -38,33 +81,5 @@
 ## ⚙ 주요기능
 
 ## ⚡ 트러블슈팅
-<div align=left>
-	<h3>📚 기술 스택 📚</h3>
-	<p>✨ 플랫폼 & 언어 ✨</p>
-</div>
-<div align="left">
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
-	<br>
-	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
-	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
-	<img src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Fluentd&logoColor=white" />
-	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
-	<br>
-</div>
-<br>
-<div align=left>
-	<p>🛠 사용 툴 🛠</p>
-</div>
-<div align=left>
-	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
-	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
-	<br>
-	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
-	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-  <br>
-  <br>
+
 
