@@ -31,7 +31,7 @@ import com.behit.util.dto.UtilDTO;
 
 @Controller
 public class ApprovalController {
-	
+	// 변경사항
 	Logger logger = LoggerFactory.getLogger(getClass());
 	
 	@Autowired
