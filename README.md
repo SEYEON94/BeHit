@@ -4,7 +4,6 @@
 <img src="https://github.com/SEYEON94/BeHit/assets/121929117/0f7cfe2d-01f7-4fbd-a2b6-8a9671521b9a" width="auto" height="200">
 <br>
 <br>
-<br>
 
 유튜브 크리에이터의 창작 활동을 돕는 MCN(Multi Channel Network) 회사를 위한 그룹웨어 서비스
 
@@ -25,6 +24,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 역할 | 부조장  | 조장  | 팀원  | 팀원  | 팀원  |
 | 기능 | CSS 메인<br>전자결재 관리|DB구축<br>아키텍쳐<br>크리에이터 관리|CSS<br>채팅(다대다)<br>알림<br>마이페이지<br>(대시보드)|DB구축<br>아키텍쳐<br>인사/근태 관리|CSS<br>프로젝트 관리<br>TODO리스트|
+<br>
 
 ## 🛠 개발 환경 및 배포 URL
 
@@ -67,16 +67,17 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 	<img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white" />
 </div>
+<div align=left>
+	<h3>📚 배포 📚</h3>
+</div>
 <br>
-
 
 ## 🧱 프로젝트 설계
 
 ### ERD
 ![beHit](https://github.com/SEYEON94/BeHit/assets/121929117/9765d57a-81c9-4821-887b-dcc2b650baec)
 
-<br>
-<br>
+
 
 ## ⚙ 주요기능
 
