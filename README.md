@@ -78,9 +78,7 @@
 ![beHit](https://github.com/SEYEON94/BeHit/assets/121929117/9765d57a-81c9-4821-887b-dcc2b650baec)
 
 
-
 ## ⚙ 주요기능
 
-## ⚡ 트러블슈팅
 
 
