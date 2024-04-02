@@ -50,6 +50,7 @@ public class ApprovalService {
 	@Autowired
 	ApprovalDAO dao;
 	
+	// 기안 작성
 	public ModelAndView approval_write_go(String form,String emp_id, String login_name) {
 		
 		ModelAndView mav = new ModelAndView("/approval/approval_write");
@@ -67,7 +68,7 @@ public class ApprovalService {
 	}
 
 	
-	
+	// 조직도
 	public HashMap<String, Object> org_selected(String emp_id) {
 		
 		HashMap<String, Object> map = new HashMap<String, Object>();
